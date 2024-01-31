@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "strict": true
+    },
+    "include": [
+      "**/*.ts" // Inclua todos os arquivos TypeScript no diretório src e seus subdiretórios
+    ],
+  }
+  
