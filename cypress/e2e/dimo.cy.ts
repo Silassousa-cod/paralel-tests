@@ -3,3 +3,5 @@ describe('empty speccc', () => {
       cy.dummyGET()
     })
   })
+
+  
