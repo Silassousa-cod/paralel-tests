@@ -22,5 +22,5 @@ Cypress.Commands.add("dummyGET", () => {
     } else {
       cy.log("Dados da response conforme o contrato passado. ");
     }
-  });
+  }); 
 });
